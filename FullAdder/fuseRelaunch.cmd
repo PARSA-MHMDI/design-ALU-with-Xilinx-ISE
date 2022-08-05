@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Study/AUT/Term 4/Logical Circuit/Project/FullAdder/FourBitAdder_isim_beh.exe" -prj "D:/Study/AUT/Term 4/Logical Circuit/Project/FullAdder/FourBitAdder_beh.prj" "work.FourBitAdder" 

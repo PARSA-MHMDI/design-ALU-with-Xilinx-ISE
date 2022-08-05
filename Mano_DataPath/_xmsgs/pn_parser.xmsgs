@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/alu.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/arithmetic_unit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/branch_unit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/control_address_register.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/control_memory_256_28bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/datapath.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/datapath_microcode.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/decoder_2to4.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/decoder_3to8.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/decoder_4to9.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/full_adder_1bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/full_processor.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/functional_unit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/instruction_register.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/logic_unit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/logic_unit_1bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/main_memory_512_16bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/microprogram_control.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/mux2_16bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/mux2_1bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/mux2_8bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/mux8_16bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/mux8_1bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/mux9_16bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/program_counter.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/reg_16bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/register_file_8.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/register_file_9_16bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/ripple_adder_16bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/shifter_16bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/temp.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Study/AUT/Term 4/Logical Circuit/Project/Micro-Coded-Processor-master/code/unit_shifter_1bit.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

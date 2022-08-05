@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "D:/Study/AUT/Term 4/Logical Circuit/Project/FullAdder/FourBitAdder.xst" -ofn "D:/Study/AUT/Term 4/Logical Circuit/Project/FullAdder/FourBitAdder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-5 "FourBitAdder.ngc" FourBitAdder.ngd  
+xst -intstyle ise -ifn "D:/Study/AUT/Term 4/Logical Circuit/Project/FullAdder/FourBitAdder.xst" -ofn "D:/Study/AUT/Term 4/Logical Circuit/Project/FullAdder/FourBitAdder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-5 "FourBitAdder.ngc" FourBitAdder.ngd  
+map -intstyle ise -p xc3s200-pq208-5 -cm area -ir off -pr off -c 100 -o FourBitAdder_map.ncd FourBitAdder.ngd FourBitAdder.pcf 
+par -w -intstyle ise -ol high -t 1 FourBitAdder_map.ncd FourBitAdder.ncd FourBitAdder.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml FourBitAdder.twx FourBitAdder.ncd -o FourBitAdder.twr FourBitAdder.pcf 
